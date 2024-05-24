@@ -1,8 +1,8 @@
-package codeEveryDay.topInterviewQuestions.easy;
+package topInterviewQuestions.easy;
 
 public class PalindromeNumber {
     public static void main(String[] args) {
-        int x = 121;
+        int x = 1421;
         boolean result = isPalindrome(x);
         System.out.println("Indices: " + result);
 
